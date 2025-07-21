@@ -3,11 +3,9 @@
 📋 HTML Form – Overview
 🔹 🧾 What is an HTML Form?
 An HTML form is a section of a web page used to collect user input and send it to a server for processing.
-
-
+<br>
 📌 Key Features:
 🔹 🖋️ Form Title & Subtitle:
-
 Main heading: Form in html
 
 Subheading: Create an account
