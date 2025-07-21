@@ -23,3 +23,6 @@ Uses placeholder attributes for input guidance.
 Designed with basic CSS for color and layout.
 
 </small>
+
+<img width="457" height="413" alt="image" src="https://github.com/user-attachments/assets/49556ef0-daf6-4e9f-acc3-ee501450b67c" />
+
