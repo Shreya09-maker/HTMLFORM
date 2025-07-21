@@ -4,57 +4,22 @@
 🔹 🧾 What is an HTML Form?
 An HTML form is a section of a web page used to collect user input and send it to a server for processing.
 <br>
-📌 Key Features:
-🔹 🖋️ Form Title & Subtitle:
-Main heading: Form in html
+📝 HTML Account Creation Form Summary
 
-Subheading: Create an account
-These are displayed using <h1> and <h2> tags for clear structure.
+A simple account registration form using HTML.
 
-🔹 🧑‍💻 Input Fields:
-You included five input fields to collect user details:
+Includes labeled input fields for Name, Email, Username, Password, and Confirm Password.
 
-Name – With a purple background input
+Each label is styled with different font colors (green, red, etc.).
 
-Email ID – Green label text
+Background of the form section is orange.
 
-Username
+Input for "Name" has a custom purple background.
 
-Password – Label in red for emphasis
+Two buttons: Clear Form (resets input) and Create Account (submits form).
 
-Confirm Password
+Uses placeholder attributes for input guidance.
 
-Each field has:
+Designed with basic CSS for color and layout.
 
-A placeholder to guide the user (e.g., “enter name here”).
-
-Custom-colored labels to visually separate each field.
-
-🔹 🎨 Styling Highlights:
-
-Orange background box wraps the form (div likely styled with background-color: orange;).
-
-Different text colors for each label using inline or CSS styling:
-
-Green for email
-
-Red for password
-
-Purple input background for Name
-
-Inputs styled for spacing and alignment.
-
-🔹 🧮 Form Buttons:
-
-Clear form – Likely a reset button.
-
-Create account – A submit button to send the form data.
-
-Styled for user clarity and aligned at the bottom of the form.
-
-✅ What This Form Does:
-Collects essential account creation data from the user.
-
-Likely sends data to a server (or could be enhanced with JavaScript or PHP for actual functionality).
-
-Shows a strong use of HTML structure and CSS for design.
+</small>
